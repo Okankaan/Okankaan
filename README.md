@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Okan
-============================================================================================================================
+Hi 👋 My name is Okan
+=====================
 
-Back-End Developer
-------------------
+Full Stack Developer
+--------------------
+
+I am working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 * 🌍  I'm based in Ankara/Turkey
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/okankaancetinkaya/)
 * ✉️  You can contact me at [okankaan.cetinkaya@gmail.com](mailto:okankaan.cetinkaya@gmail.com)
-
-<a href="https://www.twitter.com/___Okan___" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/___Okan___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+* 🧠  I'm learning Amazon Web Services (AWS)
 
 ### Skills
 
@@ -18,6 +18,7 @@ src="https://img.shields.io/twitter/follow/___Okan___?logo=twitter&style=for-the
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
