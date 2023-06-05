@@ -1,7 +1,20 @@
 Hi 👋 My name is Okan
 =====================
 
-Full Stack Developer
+
+     ______   __  __     __         __         ______     ______   ______     ______     __  __                      
+    /\  ___\ /\ \/\ \   /\ \       /\ \       /\  ___\   /\__  _\ /\  __ \   /\  ___\   /\ \/ /                      
+    \ \  __\ \ \ \_\ \  \ \ \____  \ \ \____  \ \___  \  \/_/\ \/ \ \  __ \  \ \ \____  \ \  _"-.                    
+     \ \_\    \ \_____\  \ \_____\  \ \_____\  \/\_____\    \ \_\  \ \_\ \_\  \ \_____\  \ \_\ \_\                   
+      \/_/     \/_____/   \/_____/   \/_____/   \/_____/     \/_/   \/_/\/_/   \/_____/   \/_/\/_/                   
+
+                       _____     ______     __   __   ______     __         ______     ______   ______     ______    
+                      /\  __-.  /\  ___\   /\ \ / /  /\  ___\   /\ \       /\  __ \   /\  == \ /\  ___\   /\  == \   
+                      \ \ \/\ \ \ \  __\   \ \ \'/   \ \  __\   \ \ \____  \ \ \/\ \  \ \  _-/ \ \  __\   \ \  __<   
+                       \ \____-  \ \_____\  \ \__|    \ \_____\  \ \_____\  \ \_____\  \ \_\    \ \_____\  \ \_\ \_\ 
+                        \/____/   \/_____/   \/_/      \/_____/   \/_____/   \/_____/   \/_/     \/_____/   \/_/ /_/ 
+                                
+                                                                                                      
 --------------------
 
 I am working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -35,3 +48,5 @@ I am working as a Software Engineer and contributing to frontend and backend for
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Okankaan"><img src="https://github-readme-stats.vercel.app/api?username=Okankaan&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Okankaan's GitHub stats" /></a>
+
+![snake svg](https://github.com/Okankaan/Okankaan/blob/main/github-user-contribution.svg)
